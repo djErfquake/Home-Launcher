@@ -1,0 +1,29 @@
+{
+	"highlight-color": "#29B6F6",
+	"background": {
+		"rotate-minutes": 2,
+		"images": [
+			"C:/Users/clevally/Pictures/Studio Ghibli/03 - ZLFpbxm.jpg",
+			"C:/Users/clevally/Pictures/Studio Ghibli/B1iyjlfg.jpg",
+			"C:/Users/clevally/Pictures/Studio Ghibli/RIxzYrng.png"
+		]
+	},
+	"apps":[
+		{
+			"icon-image": "kodi-nolan.png",
+			"launch-path": ""
+		},
+		{
+			"icon-image": "pluto.png",
+			"launch-path": "C:/shortcuts/putty.exe"
+		},
+		{
+			"icon-image": "steam-color.png",
+			"launch-path": ""
+		},
+		{
+			"icon-image": "videogame-white.png",
+			"launch-path": ""
+		}
+	]
+}
